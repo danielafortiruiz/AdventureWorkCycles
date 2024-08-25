@@ -37,6 +37,10 @@ Welcome to the Adventure Work Cycles Power BI dashboard project! As a data analy
   <img src="https://github.com/danielafortiruiz/AdventureWorkCycles/blob/main/Captura%20de%20pantalla%202024-07-11%20121534.jpg?raw=true" alt="Descripción de la imagen" width="600"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/danielafortiruiz/AdventureWorkCycles/blob/main/imagen%202%20awc.png?raw=true" alt="Descripción de la imagen" width="600"/>
+</p>
+
 ## 🙌 **Thank You for Exploring!**
 Thank you for checking out the Adventure Work Cycles dashboard project. Your interest in data-driven decision-making and insights is appreciated! If you have any questions or feedback, feel free to reach out.
 
