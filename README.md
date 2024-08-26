@@ -8,6 +8,13 @@
 ## 🌟 **Project Overview**
 Welcome to the Adventure Work Cycles Power BI dashboard project! As a data analyst, I've developed a comprehensive dashboard designed to optimize the visualization of key sales and operations data. This dashboard provides valuable insights and supports strategic decision-making.
 
+## 🌟 Entity-Relationship Diagram
+
+<p align="center">
+  <img src="https://github.com/danielafortiruiz/AdventureWorkCycles/blob/main/ModeloRelacional_PI.png?raw=true" alt="Modelo Relacional">
+</p>
+
+
 ## 📊 **Features**
 
 ### 🔍 **Key Performance Indicators (KPIs)**
