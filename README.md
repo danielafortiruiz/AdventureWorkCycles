@@ -1,7 +1,7 @@
  # 🚴‍♂️ **Adventure Work Cycles Dashboard**
 
- <p align="center">
-  <img src="https://github.com/danielafortiruiz/AdventureWorkCycles/blob/main/LOGO%20AWC%20PI.jpeg?raw=true" alt="Logo Adventure Work Cycles" />
+<p align="center">
+  <img src="https://github.com/danielafortiruiz/AdventureWorkCycles/blob/main/LOGO%20AWC%20PI.jpeg?raw=true" alt="Logo Adventure Work Cycles" width="200"/>
 </p>
 
 
