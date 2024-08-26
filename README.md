@@ -1,5 +1,10 @@
  # 🚴‍♂️ **Adventure Work Cycles Dashboard**
 
+ <p align="center">
+  <img src="https://github.com/danielafortiruiz/AdventureWorkCycles/blob/main/LOGO%20AWC%20PI.jpeg?raw=true" alt="Logo Adventure Work Cycles" />
+</p>
+
+
 ## 🌟 **Project Overview**
 Welcome to the Adventure Work Cycles Power BI dashboard project! As a data analyst, I've developed a comprehensive dashboard designed to optimize the visualization of key sales and operations data. This dashboard provides valuable insights and supports strategic decision-making.
 
